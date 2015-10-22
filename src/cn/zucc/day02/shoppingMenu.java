@@ -35,9 +35,16 @@ public class shoppingMenu {
 		String password = sc.next();
 		if(acounts.equals(account1)&&password.equals(password1)){
 			System.out.println("@@µÇÂ½³É¹¦£»JadeBird@@");
+			
+			}
+		else{
+			System.out.println("µÇÂ¼Ê§°Ü");
+			
+			
+		}
 		}
 		
 		
 	}
 
-}
+
