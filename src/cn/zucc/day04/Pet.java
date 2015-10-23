@@ -2,8 +2,8 @@ package cn.zucc.day04;
 
 public abstract class Pet {
 	private String name;
-	private int health = 100;
-	private int love = 20;
+	private int health ;
+	private int love ;
 
 	public abstract void print();
 
@@ -34,5 +34,7 @@ public abstract class Pet {
 	public abstract void Cure();
 
 	int health1 = 100;
-	int love1 = 20 ;
+	int love1 = 20;
+
+	
 }

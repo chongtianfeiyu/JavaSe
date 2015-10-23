@@ -47,12 +47,9 @@ public class PetTest {
 	*/	
 		
 		
-	/*	Pet pet = new Penguin();
+	Pet pet = new Penguin();
 		Master m = new Master();
 		m.Cure(pet);
-	*/
-		Pet pet = new Penguin();
-		Master m = new Master();
 		m.Play(pet);
 		m.Play(pet);
 		}

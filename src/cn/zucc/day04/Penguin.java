@@ -32,6 +32,9 @@ public class Penguin extends Pet {
 		super.health1 = super.health1 - 10;
 		super.love1 = super.love1 + 5 ;
 		System.out.println("Ê£Óà½¡¿µÖµ"+super.health1 +"Ç×ÃÜ¶È"+ super.love1);
-	} 
+	}
+
+
+
 
 }
