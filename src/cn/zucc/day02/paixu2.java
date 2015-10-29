@@ -20,7 +20,7 @@ public class paixu2 {
 		}
 		System.out.println("´ı²åÈëµÄ×Ö·ûÊÇ:m");
 		for(int i =0; i<num.length ;i++){
-			if('m'>num[])
+			
 		}
 		
 	}
